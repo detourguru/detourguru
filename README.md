@@ -5,9 +5,14 @@
   <li>😎 기회를 놓치지 않고 스스로 성장할 줄 아는 ENTP 개발자</li>
   <li>🚀 뛰어난 커뮤니케이션 스킬과 협업 능력</li>
   <li>🛍️ 현재 E-Commerce 업계에서 일하고 있어요</li>
-  <li>📧 detourguru@gmail.com</li>
+  <li>📧 이메일: detourguru@gmail.com</li>
+  <li>👀 블로그: https://detourguru.github.io</li>
 </p> 
 
+<h3 align="left">요즘 이런걸 공부하고 있어요:</h3>
+<p align="left"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="50" height="50"/>
+</p>
 
 <h3 align="left">현재는 이걸 주로 사용해요:</h3>
 <p align="left"> 
@@ -27,8 +32,4 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original-wordmark.svg" alt="gitlab" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="50"/>
-</p>  
-
-<h3 align="left">블로그:</h3>
-<p align="left">
 </p>
