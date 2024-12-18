@@ -6,7 +6,6 @@
   <li>🚀 뛰어난 커뮤니케이션 스킬과 협업 능력</li>
   <li>🦎 어느 환경에나 잘 적응할 수 있는 전천후 개발자</li>
   <li>📧 이메일: detourguru@gmail.com</li>
-  <li>👀 블로그: https://detourguru.github.io</li>
 </p> 
 
 <h3 align="left">요즘 이런걸 공부하고 있어요:</h3>
