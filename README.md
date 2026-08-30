@@ -1,40 +1,36 @@
-# 안녕하세요, 치섭입니다.
+# How I work
 
-백엔드 경험을 바탕으로 더 나은 사용자 경험을 만드는 프론트엔드 개발자입니다.  
-기능 구현을 넘어서, 사용자가 자연스럽게 흐름을 경험하는 인터페이스를 만드는 데 관심이 많습니다.
+안녕하세요.
+사용자에게도 회사에도 실질적인 가치를 만드는 프론트엔드 개발자 김채연입니다.
+
+저는 기획 의도를 이해하고, 정해진 기간 안에 좋은 품질의 프로덕트를 완성하는 것을 중요하게 생각합니다.
+업무의 우선순위를 정해 일정에 맞춰 작업하고, 구현한 결과를 직접 확인합니다. 문제가 발견되면 원인을 파악하고 개선합니다.
+
+작업은 혼자 하더라도 중요한 결정은 팀과 함께 내립니다.
+화면을 구현하는 데 그치지 않고, 사용자가 실제로 경험하는 과정과 서비스의 기술적인 품질까지 함께 고민합니다.
+
+더 나은 사용자 경험으로 이어질 수 있는 문제를 발견하고 직접 개선해 나가는 것을 좋아합니다.
+
+- 🔗 [기술/학습 블로그](https://detourguru.github.io/): 실무에서 겪은 케이스들과 개인적으로 학습한 내용을 주로 다룹니다 
+- ✉️ detourguru@gmail.com
+
+---
 
 ## About Me
 
-- React, TypeScript, Zustand, React Query, Tailwind CSS 기반으로 프론트엔드를 개발합니다.
-- 화면을 그리는 것보다, 사용자의 행동 흐름과 데이터 구조가 어떻게 연결되는지 고민하는 일을 좋아합니다.
-- Laravel 기반 B2B 이커머스 백엔드 개발 경험이 있습니다.
-- 백엔드 경험은 프론트엔드를 더 잘 이해하고 설계하기 위한 자산이라고 생각합니다.
-- AI로 반복 작업을 줄이고, 더 중요한 문제에 집중할 수 있는 방법을 자주 고민합니다.
-
-## Experience
-
-**Backend Developer**  
-PHP / Laravel 기반 B2B 이커머스 서비스 개발  
-2년 4개월
-
-**Frontend Developer**  
-React 기반 B2C 웹게임 프론트엔드 개발  
-1년 3개월 (재직중)
+* React, Next.js, TypeScript, Zustand, React Query, Tailwind CSS를 사용해 프론트엔드를 개발합니다.
+* 새로운 기술은 직접 사용하고 검증하며 익힙니다.
+* 유지보수하기 좋은 구조를 고민합니다.
+* 사용자 경험과 개발 생산성 모두 좋아지는 방향을 찾습니다.
+* 백엔드 개발 경험이 있어 API 설계와 문서의 중요성을 잘 이해하고 있습니다.
+* AI를 개발자의 도구로 적극 활용하며, 이를 팀의 자동화와 개발 생산성 향상으로 연결합니다.
 
 ## Tech Stack
 
-### Frontend
-React, TypeScript, JavaScript, Zustand, React Query, Tailwind CSS v4
+**Frontend**: React · Next.js · TypeScript · Zustand · React Query · React Hook Form + Zod · Tailwind CSS
+**Backend**: PHP · Laravel
+**학습 중**: Python
 
-### Backend
-PHP, Laravel, Python, Django
+## Recent Highlights
 
-## What I Care About
-
-- 사용자가 눈치채지 못해도 체감하게 되는 디테일한 UX
-- 복잡한 상태와 렌더링 비용을 다루는 프론트엔드 설계
-- 지도, 기록, 아카이빙처럼 사용자의 흐름이 중요한 서비스
-
-## Contact
-
-- Email: detourguru@gmail.com
+- 🆕 2026.08 — 개인 프로젝트 ['회전문'](https://hoejeonmun.vercel.app/) 베타 오픈 (Next.js · Supabase · Gemini Vision · PWA)
